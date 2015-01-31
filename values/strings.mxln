@@ -1,0 +1,10 @@
+# Sis.EmbebidosTeamDOAL
+MyFirstApp
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sis.Embebidos</string>
+    <string name="hello_world">Team Doal!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
